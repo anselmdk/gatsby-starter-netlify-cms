@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Coffee
+title: Our Coffee - is this being updated?
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
